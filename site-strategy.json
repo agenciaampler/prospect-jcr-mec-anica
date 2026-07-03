@@ -1,0 +1,78 @@
+{
+    "hero_badge": "Nota 4,9 no Google · 129 avaliações",
+    "hero_line": "Mecânica de confiança no Santa Quitéria. Diagnóstico honesto e orçamento pelo WhatsApp.",
+    "services_headline": "O que resolvemos no seu carro",
+    "services_intro": "Atendemos Fiat, Chevrolet, Volkswagen, Renault, Hyundai, Toyota, Honda e Nissan. Serviço explicado antes de executar.",
+    "split_headline": "Seu carro entra com problema. Sai com solução explicada.",
+    "confidence_headline": "Por que Curitiba confia na JCR Mecânica",
+    "location_headline": "Fácil de chegar: Santa Quitéria, Curitiba",
+    "steps_headline": "Como funciona o atendimento",
+    "faq_headline": "Perguntas frequentes",
+    "service_cards": [
+        {
+            "title": "Diagnóstico",
+            "body": "Scanner e avaliação completa para achar a causa real. Você recebe o orçamento antes de qualquer serviço.",
+            "icon": "ph-gauge"
+        },
+        {
+            "title": "Freios e suspensão",
+            "body": "Pastilhas, discos, amortecedores e barulhos na direção. Segurança em primeiro lugar, com peças de qualidade.",
+            "icon": "ph-steering-wheel"
+        },
+        {
+            "title": "Revisão preventiva",
+            "body": "Troca de óleo, filtros e checagem geral. Evite dor de cabeça e mantenha o plano de revisões do seu carro em dia.",
+            "icon": "ph-wrench"
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Orçamento transparente",
+            "body": "Você aprova antes. Sem serviço surpresa, sem peça trocada sem necessidade.",
+            "icon": "ph-check-circle"
+        },
+        {
+            "title": "Especialistas em populares",
+            "body": "Experiência com as marcas mais rodadas do Brasil, de Fiat a Toyota. Peças com boa procedência.",
+            "icon": "ph-car"
+        },
+        {
+            "title": "Resposta rápida no WhatsApp",
+            "body": "Mande o problema por mensagem e receba orientação direta, sem enrolação.",
+            "icon": "ph-whatsapp-logo"
+        }
+    ],
+    "faq": [
+        {
+            "question": "Preciso agendar ou posso ir direto à oficina?",
+            "answer": "Recomendamos agendar pelo WhatsApp para garantir atendimento rápido. Casos urgentes, chame que orientamos na hora."
+        },
+        {
+            "question": "Vocês atendem quais marcas de carro?",
+            "answer": "Fiat, Chevrolet, Volkswagen, Renault, Hyundai, Toyota, Honda e Nissan, entre outras. Na dúvida, mande o modelo pelo WhatsApp."
+        },
+        {
+            "question": "O orçamento é cobrado?",
+            "answer": "A avaliação inicial é conversada pelo WhatsApp sem compromisso. Qualquer serviço só é feito após sua aprovação."
+        },
+        {
+            "question": "Onde fica a JCR Mecânica?",
+            "answer": "Na R. Prof. Ulisses Vieira, 1462, Santa Quitéria, Curitiba. Fácil acesso para toda a região metropolitana."
+        }
+    ],
+    "image_direction": {
+        "hero_mobile": "Mecânico de meia-idade sorrindo ao lado de carro popular em elevador, luz de dia clara e seca, oficina limpa, enquadramento vertical com espaço superior para texto, sem placas ou logos.",
+        "hero_desktop": "Vista ampla da oficina organizada em dia claro, carro popular no elevador ao fundo, mecânico em primeiro plano, composição horizontal com área de respiro à esquerda para o hero.",
+        "service_1": "Close de mãos com scanner automotivo conectado ao painel de carro popular, luz natural, foco nítido, sem marcas visíveis, recorte quadrado funciona bem no mobile.",
+        "service_2": "Mecânica jovem inspecionando disco de freio com roda removida, iluminação clara de dia, uniforme neutro sem logos, enquadramento fechado com boa leitura em tela pequena.",
+        "trust": "Cliente e mecânico conversando ao lado do carro com prancheta, pessoas visivelmente diferentes das outras fotos, ambiente seco e iluminado, clima de confiança, sem placas.",
+        "og_image": "Fachada genérica de oficina limpa em dia claro típico de Curitiba, carro popular estacionado, sem letreiros ou placas, cores neutras que combinam com azul e vermelho da marca."
+    },
+    "quality_checks": [
+        "Contraste WCAG AA validado nos botões (#0F4C81 e #D7261E sobre fundo claro) e no texto sobre imagens com overlay.",
+        "CTA de WhatsApp fixo e visível no mobile, com link direto wa.me, rota do Google Maps clicável e schema LocalBusiness com endereço, nota e FAQ.",
+        "Copy revisada: frases curtas, acentuação correta, sem promessa de posição garantida em buscadores ou IAs, apenas linguagem de estrutura e possibilidade."
+    ],
+    "created_by": "zenmux:anthropic/claude-fable-5",
+    "created_at": "2026-07-02T20:35:52-03:00"
+}
